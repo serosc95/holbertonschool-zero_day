@@ -1,1 +1,1 @@
-Vagrant is Awesome
+Vagrant is awesome
