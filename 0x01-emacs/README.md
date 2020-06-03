@@ -1,1 +1,1 @@
-These are the emacs commands
+# Emacs is awesome
