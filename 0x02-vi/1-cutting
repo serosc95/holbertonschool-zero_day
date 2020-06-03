@@ -1,0 +1,1 @@
+copy (yank, cut) the current line into the buffer: yy
