@@ -3,23 +3,27 @@
 This repository shows you how to properly install programs like Vagrant, Git, Virtualbox, and text editors like Emacs or Vi to set up a basic development environment
 
 ## Table of Contents
-1. [Vagrant](#vagrant-)
-2. [Emacs](#emacs-)
-3. [Vi](#vi-)
-4. [Git](#git-)
+1. [Vagrant](#vagrant)
+2. [Emacs](#emacs)
+3. [Vi](#vi)
+4. [Git](#git)
 
+<a name="vagrant"></a>
 ## Vagrant  
 
 Install and configure a development environment with [Vagrant](https://github.com/serosc95/holbertonschool-zero_day/tree/master/0x00-vagrant).
 
+<a name="emacs"></a>
 ## Emacs
 
 Install and learn how to use the [Emacs](https://github.com/serosc95/holbertonschool-zero_day/tree/master/0x01-emacs) text editor.
 
+<a name="vi"></a>
 ## Vi
 
 Install and learn how to use the [Vi](https://github.com/serosc95/holbertonschool-zero_day/tree/master/0x02-vi) text editor.
 
+<a name="git"></a>
 ## Git
 
 install and learn how to use [Git](https://github.com/serosc95/holbertonschool-zero_day/tree/master/0x03-git) version control.
