@@ -9,22 +9,22 @@ This repository shows you how to properly install programs like Vagrant, Git, Vi
 4. [Git](#git)
 
 <a name="vagrant"></a>
-## Vagrant  
+#### Vagrant  
 
 Install and configure a development environment with [Vagrant](https://github.com/serosc95/holbertonschool-zero_day/tree/master/0x00-vagrant).
 
 <a name="emacs"></a>
-## Emacs
+#### Emacs
 
 Install and learn how to use the [Emacs](https://github.com/serosc95/holbertonschool-zero_day/tree/master/0x01-emacs) text editor.
 
 <a name="vi"></a>
-## Vi
+#### Vi
 
 Install and learn how to use the [Vi](https://github.com/serosc95/holbertonschool-zero_day/tree/master/0x02-vi) text editor.
 
 <a name="git"></a>
-## Git
+#### Git
 
 install and learn how to use [Git](https://github.com/serosc95/holbertonschool-zero_day/tree/master/0x03-git) version control.
 
