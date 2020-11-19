@@ -1,5 +1,3 @@
-#Holberton School.
-##This is my first project.
+# Creating the development environment
 
-My name is **Oscar De Leon**.
-![Emoji happy](https://i.pinimg.com/originals/fe/15/1d/fe151dab1e16b91720b4a883725da267.gif)
+This repository shows you how to properly install programs like Vagrant, Git, Virtualbox, and text editors like Emacs or Vi to set up a basic development environment
