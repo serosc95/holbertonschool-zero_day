@@ -24,3 +24,14 @@ To run the virtual machine we will use VirtualBox.
 15. [How to commit](#item15)
 16. [How to write helpful commit messages](#item16)
 17. [How to push code](#item17)
+
+<a name="item1"></a>
+### What is a zero-day
+
+This is a new vulnerability for which no patches or fixes were created, and which is used to carry out an attack. Its name is due to the fact that there is still no patch to mitigate the exploitation of the vulnerability
+
+<a name="item2"></a>
+### What is a virtual machine
+
+It is a software that creates a separate layer where it emulates the operation of a real computer with all the hardware components it needs to function and can run any operating system or program, just as a real computer would.
+
